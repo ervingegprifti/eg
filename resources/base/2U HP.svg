@@ -7,7 +7,7 @@
    viewBox="0 0 95.249999 76.2"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="2U.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="181.63805"
-     inkscape:cy="150.03922"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="204.7074"
+     inkscape:cy="162.98811"
+     inkscape:window-width="933"
+     inkscape:window-height="1083"
+     inkscape:window-x="461"
+     inkscape:window-y="1117"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      showborder="false"
      borderlayer="false"
@@ -382,35 +382,36 @@
        transform="translate(9.525,9.525)" />
     <path
        id="rect75"
-       style="fill:none;stroke:#000000;stroke-width:0.099936;stroke-dasharray:none"
+       style="fill:#374845;stroke:#000000;stroke-width:0;stroke-dasharray:none"
        d="m 18.550001,18.549999 h 39.049998 v 20.05 H 18.550001 Z"
        inkscape:path-effect="#path-effect6"
        inkscape:original-d="m 18.550001,18.549999 h 39.049998 v 20.05 H 18.550001 Z"
        transform="matrix(1.0012805,0,0,1,9.5012467,9.525)"
-       inkscape:label="surround" />
+       inkscape:label="2U surround" />
     <path
        id="rect2"
-       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0;stroke-dasharray:none"
        d="M 28.575002,28.575 H 66.675004 V 47.624999 H 28.575002 Z"
-       inkscape:label="key" />
+       inkscape:label="2U key" />
     <path
        id="path1"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       style="display:inline;fill:#f9f9f9;stroke:#000000;stroke-width:0;stroke-dasharray:none"
        d="m 20.050001,19.549999 h 36.1 a 0.5,0.5 45 0 1 0.5,0.5 l 0,17.05 a 0.5,0.5 135 0 1 -0.5,0.5 h -36.1 a 0.5,0.5 45 0 1 -0.5,-0.5 v -17.05 a 0.5,0.5 135 0 1 0.5,-0.5 z"
-       inkscape:label="keycap"
+       inkscape:label="2U keycap"
        inkscape:path-effect="#path-effect2"
        inkscape:original-d="m 19.550001,19.549999 h 37.1 v 18.05 h -37.1 z"
        transform="translate(9.525,9.525)" />
     <path
        id="path3"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.0999989;stroke-dasharray:none"
+       style="display:inline;fill:#536c67;stroke:#000000;stroke-width:0;stroke-dasharray:none"
        d="M 40.62491,31.09991 V 35.8509 H 38.931861 V 32.586125 H 32.260382 V 35.8509 h -0.833876 v 2.678701 h 0.833876 v 6.340528 h 6.671479 v -4.521034 h 1.693049 v 4.750995 h 14.00018 v -4.750995 h 1.693053 v 4.521034 h 6.671479 v -6.340528 h 0.833872 V 35.8509 H 62.989622 V 32.586125 H 56.318143 V 35.8509 H 54.62509 v -4.75099 z"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
-       inkscape:label="hole" />
+       inkscape:label="2U hole" />
     <g
        id="g3"
        inkscape:label="center-marks"
-       transform="translate(9.525,9.525)">
+       transform="translate(9.525,9.525)"
+       style="display:inline">
       <path
          style="display:inline;fill:#aade87;stroke:#000000;stroke-width:0.1;stroke-linejoin:round;stroke-dasharray:none"
          d="m 38.100004,29.575 v -2"
@@ -509,9 +510,9 @@
        y="0"><tspan
          x="28.591122"
          y="171.60808"
-         id="tspan2"><tspan
+         id="tspan4"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000"
-           id="tspan1">HP</tspan></tspan></text>
+           id="tspan3">HP</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
