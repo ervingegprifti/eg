@@ -22420,7 +22420,7 @@
      id="g77"
      inkscape:label="red-usb"
      transform="translate(-12.899987,-0.999927)"
-     style="display:none;stroke-width:0.1;stroke-dasharray:none"><path
+     style="display:inline;stroke-width:0.1;stroke-dasharray:none"><path
        id="path38"
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
        d="M 62.000003,3.4998579 H 39.999971 V 16.500037 h 22.000032 z"
