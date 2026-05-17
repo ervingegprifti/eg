@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="8"
-     inkscape:cx="199.3125"
-     inkscape:cy="146.1875"
+     inkscape:zoom="4"
+     inkscape:cx="218.875"
+     inkscape:cy="152.625"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
      inkscape:window-x="-8"
@@ -57,6 +57,16 @@
        position="53.793099,45.100087"
        orientation="0,-1"
        id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="35.59612,38.099997"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="59.65388,38.425625"
+       orientation="1,0"
+       id="guide3"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -515,9 +525,9 @@
        y="0"><tspan
          x="28.591122"
          y="171.60808"
-         id="tspan2"><tspan
+         id="tspan4"><tspan
            style="font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000"
-           id="tspan1">HP</tspan></tspan></text>
+           id="tspan3">HP</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
