@@ -28,13 +28,13 @@
      inkscape:document-units="mm"
      showgrid="true"
      showguides="true"
-     inkscape:zoom="8.34386"
-     inkscape:cx="428.81832"
-     inkscape:cy="297.04477"
-     inkscape:window-width="1920"
-     inkscape:window-height="1129"
-     inkscape:window-x="1912"
-     inkscape:window-y="1072"
+     inkscape:zoom="5.9"
+     inkscape:cx="461.52542"
+     inkscape:cy="184.49153"
+     inkscape:window-width="1842"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1"
      inkscape:export-bgcolor="#ffffffff"><inkscape:grid
@@ -3551,108 +3551,108 @@
      style="font-size:5.33333px;line-height:1;white-space:pre;shape-inside:url(#rect77-3-6);display:inline;opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"><tspan
        x="245.66992"
        y="-184.77747"
-       id="tspan36"><tspan
+       id="tspan2"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas"
-         id="tspan3">         Length
+         id="tspan1">         Length
 </tspan></tspan><tspan
        x="245.66992"
        y="-179.20598"
-       id="tspan38"><tspan
+       id="tspan5"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas"
-         id="tspan37">M2.      3, 4, 5, 6, 8, 10
+         id="tspan4">M2.      3, 4, 5, 6, 8, 10
 </tspan></tspan><tspan
        x="245.66992"
        y="-173.6345"
-       id="tspan40"><tspan
+       id="tspan7"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas"
-         id="tspan39">M2.5     3, 4, 5, 6, 8, 10
+         id="tspan6">M2.5     3, 4, 5, 6, 8, 10
 </tspan></tspan><tspan
        x="245.66992"
        y="-168.06301"
-       id="tspan42"><tspan
+       id="tspan9"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas"
-         id="tspan41">M3.         4, 5, 6, 8, 10</tspan></tspan></text><text
+         id="tspan8">M3.         4, 5, 6, 8, 10</tspan></tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458359,-35.412014,55.890406)"
      id="text78"
      style="font-size:4px;line-height:1;white-space:pre;shape-inside:url(#rect79-2-5);display:inline;opacity:0.7;fill:#ffcc00;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"><tspan
        x="245.66992"
        y="-185.82724"
-       id="tspan44"><tspan
+       id="tspan11"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan43">Thick  minD   minSpace
+         id="tspan10">Thick  minD   minSpace
 </tspan></tspan><tspan
        x="245.66992"
        y="-181.64862"
-       id="tspan46"><tspan
+       id="tspan13"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan45">0.5    0.5    0.5
+         id="tspan12">0.5    0.5    0.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-177.47"
-       id="tspan48"><tspan
+       id="tspan15"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan47">0.8    0.5    0.5
+         id="tspan14">0.8    0.5    0.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-173.29138"
-       id="tspan50"><tspan
+       id="tspan17"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan49">1.0    0.5    1.0
+         id="tspan16">1.0    0.5    1.0
 </tspan></tspan><tspan
        x="245.66992"
        y="-169.11276"
-       id="tspan52"><tspan
+       id="tspan19"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan51">1.2    0.8    1.0
+         id="tspan18">1.2    0.8    1.0
 </tspan></tspan><tspan
        x="245.66992"
        y="-164.93414"
-       id="tspan54"><tspan
+       id="tspan21"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan53">1.5    0.8    1.5
+         id="tspan20">1.5    0.8    1.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-160.75552"
-       id="tspan56"><tspan
+       id="tspan23"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan55">2.0    1.5    1.5
+         id="tspan22">2.0    1.5    1.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-156.57691"
-       id="tspan58"><tspan
+       id="tspan25"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan57">2.5    2.0    1.75
+         id="tspan24">2.5    2.0    1.75
 </tspan></tspan><tspan
        x="245.66992"
        y="-152.39829"
-       id="tspan60"><tspan
+       id="tspan27"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan59">3.0    2.5    2.1
+         id="tspan26">3.0    2.5    2.1
 </tspan></tspan><tspan
        x="245.66992"
        y="-148.21967"
-       id="tspan62"><tspan
+       id="tspan29"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan61">4.0    2.5    2.8
+         id="tspan28">4.0    2.5    2.8
 </tspan></tspan><tspan
        x="245.66992"
        y="-144.04105"
-       id="tspan64"><tspan
+       id="tspan31"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan63">5.0    3.5    3.5
+         id="tspan30">5.0    3.5    3.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-139.86243"
-       id="tspan66"><tspan
+       id="tspan33"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan65">6.0    4.0    4.2
+         id="tspan32">6.0    4.0    4.2
 </tspan></tspan><tspan
        x="245.66992"
        y="-135.68381"
-       id="tspan68"><tspan
+       id="tspan35"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan67">8.0    5.0    5.6</tspan></tspan></text><path
+         id="tspan34">8.0    5.0    5.6</tspan></tspan></text><path
      id="path4-6"
      style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
      d="m 65.499905,73.000422 9e-5,-4.50003 h 1.5 l 8e-5,-1.49497 h -1.50017 v -0.005 h -2.99981 v 0.005 h -1.50017 l 7e-5,1.49497 h 1.5 l 1e-4,4.50003 z"
@@ -3786,7 +3786,7 @@
      sodipodi:nodetypes="ccccc" /><path
      id="path103"
      style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-     d="M 94.999971,56 107,50.000001 113.49998,50 v 5 l -0.99998,10e-7 v -1 h -7 v 1 L 103.99998,55 v 9 h -6.999979 -1 -1.00003 z"
+     d="M 94.999971,55 107,49.500001 113.49998,49.5 V 55 l -0.99998,10e-7 v -1 h -7 v 1 L 103.99998,55 v 9 h -6.999979 -1 -1.00003 z"
      sodipodi:nodetypes="cccccccccccccc" /><path
      id="path126"
      style="display:inline;fill:#37c871;stroke:#000000;stroke-width:0;stroke-dasharray:none"
@@ -3794,7 +3794,7 @@
      sodipodi:nodetypes="ccccc" /><path
      id="path128"
      style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-     d="M 155,50.5 154.49999,50 h -18 v 5 l 1.00001,10e-7 v -1 h 7 v 1 l 8.49997,-10e-7 1e-5,9 H 155 Z"
+     d="m 155,50 -0.50001,-0.5 h -18 V 55 l 1.00001,10e-7 v -1 h 7 v 1 l 8.49997,-10e-7 1e-5,9 H 155 Z"
      sodipodi:nodetypes="cccccccccccc" /><path
      id="path72"
      style="display:inline;opacity:0.7;fill:#4d4d4d;stroke:#000000;stroke-width:0;stroke-dasharray:none"
@@ -3802,7 +3802,7 @@
      sodipodi:nodetypes="ccccccccccccc" /><path
      id="path78"
      style="display:inline;opacity:1;fill:#ff9955;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
-     d="m 110.4999,50.999995 1e-4,7.50003 h 1.5 v 0.999999 h -6 v -0.999999 h 1.5 l 1e-4,-7.50003 z"
+     d="m 110.4999,50.499995 1e-4,8.00003 h 1.5 v 0.999999 h -6 v -0.999999 h 1.5 l 1e-4,-8.00003 z"
      sodipodi:nodetypes="ccccccccc" /><path
      id="path82"
      style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
@@ -3818,7 +3818,7 @@
      sodipodi:nodetypes="ccccccccccccc" /><path
      id="path86"
      style="display:inline;opacity:0.7;fill:#ff9955;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
-     d="m 142.4999,50.999995 1e-4,7.00003 h 1.5 v 0.999999 h -6 v -0.999999 h 1.5 l 1e-4,-7.00003 z"
+     d="m 142.4999,50.499995 1e-4,7.50003 h 1.5 v 0.999999 h -6 v -0.999999 h 1.5 l 1e-4,-7.50003 z"
      sodipodi:nodetypes="ccccccccc" /><g
      id="g86"
      transform="matrix(1,0,0,-1,5.000092,116.70002)"><path
@@ -3847,7 +3847,7 @@
        d="m 145.1,60.5 a 0.09999989,0.10000003 0 0 1 -0.1,0.1 0.09999989,0.10000003 0 0 1 -0.1,-0.1 0.09999989,0.10000003 0 0 1 0.1,-0.1 0.09999989,0.10000003 0 0 1 0.1,0.1 z" /></g><path
      id="path93"
      style="display:inline;opacity:0.7;fill:#ff9955;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
-     d="m 151.4999,50.999995 1e-4,5.70003 h 1.5 v 0.999999 h -6 v -0.999999 h 1.5 l 1e-4,-5.70003 z"
+     d="m 151.4999,50.499995 1e-4,6.20003 h 1.5 v 0.999999 h -6 v -0.999999 h 1.5 l 1e-4,-6.20003 z"
      sodipodi:nodetypes="ccccccccc" /><path
      id="path101"
      style="display:inline;fill:#aaccff;stroke:#000000;stroke-width:0;stroke-dasharray:none"
