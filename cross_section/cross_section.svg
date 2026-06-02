@@ -29,14 +29,14 @@
      showgrid="true"
      showguides="true"
      inkscape:zoom="5.9"
-     inkscape:cx="461.52542"
-     inkscape:cy="184.49153"
+     inkscape:cx="236.44068"
+     inkscape:cy="172.62712"
      inkscape:window-width="1842"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="layer5"
      inkscape:export-bgcolor="#ffffffff"><inkscape:grid
        id="grid1"
        units="mm"
@@ -3415,7 +3415,7 @@
        transform="translate(30.999999,51.124999)" /><path
        id="path69"
        style="display:inline;opacity:1;fill:#ffcc00;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-       d="m 119.04374,58.768758 h 67.00001 v 6 h -67.00001 z"
+       d="m 119.04374,59.268758 h 67.00001 v 5.5 h -67.00001 z"
        sodipodi:nodetypes="ccccc" /><path
        id="path7"
        style="display:inline;opacity:1;fill:#4d4d4d;stroke:#000000;stroke-width:0;stroke-dasharray:none"
@@ -3473,7 +3473,7 @@
        sodipodi:nodetypes="ccccccccccccc"
        inkscape:path-effect="#path-effect72"
        inkscape:original-d="m 115.04375,-29.856242 h 16 v 11.000001 h -2 v -2.000001 h -1.99999 v -7 h -8 v 7 h -2 l -1e-5,2.000001 h -2 z"
-       transform="translate(30.999999,76.624999)" /><path
+       transform="translate(30.999999,77.624999)" /><path
        id="path94"
        style="display:inline;fill:#006680;stroke:#000000;stroke-width:0;stroke-dasharray:none"
        d="m 148.54374,32.768756 h 11.00001 v 1.8 h -11.00001 z"
@@ -3488,19 +3488,19 @@
        sodipodi:nodetypes="ccccc" /><path
        id="path37"
        style="display:inline;fill:#006680;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-       d="m 148.54374,59.768757 h 11 v 1.8 h -11 z"
+       d="m 148.54374,59.268757 h 11 v 1.8 h -11 z"
        sodipodi:nodetypes="ccccc" /><path
        id="path45"
        style="display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-       d="m 148.04374,61.568757 h 12 v 0.2 h -12 z"
+       d="m 148.04374,61.068757 h 12 v 0.2 h -12 z"
        sodipodi:nodetypes="ccccc" /><path
        id="path46"
        style="display:inline;fill:#006680;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-       d="m 168.54374,59.768757 h 11.0388 v 1.8 h -11.0388 z"
+       d="m 168.54374,59.268757 h 11.0388 v 1.8 h -11.0388 z"
        sodipodi:nodetypes="ccccc" /><path
        id="path47"
        style="display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0;stroke-dasharray:none"
-       d="m 168.04374,61.568757 h 12 v 0.2 h -12 z"
+       d="m 168.04374,61.068757 h 12 v 0.2 h -12 z"
        sodipodi:nodetypes="ccccc" /><path
        id="path21"
        style="display:inline;opacity:1;fill:#008000;stroke:#000000;stroke-width:0;stroke-dasharray:none"
@@ -3551,108 +3551,108 @@
      style="font-size:5.33333px;line-height:1;white-space:pre;shape-inside:url(#rect77-3-6);display:inline;opacity:0.7;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"><tspan
        x="245.66992"
        y="-184.77747"
-       id="tspan2"><tspan
+       id="tspan36"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas"
-         id="tspan1">         Length
+         id="tspan3">         Length
 </tspan></tspan><tspan
        x="245.66992"
        y="-179.20598"
-       id="tspan5"><tspan
+       id="tspan38"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas"
-         id="tspan4">M2.      3, 4, 5, 6, 8, 10
+         id="tspan37">M2.      3, 4, 5, 6, 8, 10
 </tspan></tspan><tspan
        x="245.66992"
        y="-173.6345"
-       id="tspan7"><tspan
+       id="tspan40"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas"
-         id="tspan6">M2.5     3, 4, 5, 6, 8, 10
+         id="tspan39">M2.5     3, 4, 5, 6, 8, 10
 </tspan></tspan><tspan
        x="245.66992"
        y="-168.06301"
-       id="tspan9"><tspan
+       id="tspan42"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas"
-         id="tspan8">M3.         4, 5, 6, 8, 10</tspan></tspan></text><text
+         id="tspan41">M3.         4, 5, 6, 8, 10</tspan></tspan></text><text
      xml:space="preserve"
      transform="matrix(0.26458333,0,0,0.26458359,-35.412014,55.890406)"
      id="text78"
      style="font-size:4px;line-height:1;white-space:pre;shape-inside:url(#rect79-2-5);display:inline;opacity:0.7;fill:#ffcc00;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"><tspan
        x="245.66992"
        y="-185.82724"
-       id="tspan11"><tspan
+       id="tspan44"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan10">Thick  minD   minSpace
+         id="tspan43">Thick  minD   minSpace
 </tspan></tspan><tspan
        x="245.66992"
        y="-181.64862"
-       id="tspan13"><tspan
+       id="tspan46"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan12">0.5    0.5    0.5
+         id="tspan45">0.5    0.5    0.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-177.47"
-       id="tspan15"><tspan
+       id="tspan48"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan14">0.8    0.5    0.5
+         id="tspan47">0.8    0.5    0.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-173.29138"
-       id="tspan17"><tspan
+       id="tspan50"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan16">1.0    0.5    1.0
+         id="tspan49">1.0    0.5    1.0
 </tspan></tspan><tspan
        x="245.66992"
        y="-169.11276"
-       id="tspan19"><tspan
+       id="tspan52"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan18">1.2    0.8    1.0
+         id="tspan51">1.2    0.8    1.0
 </tspan></tspan><tspan
        x="245.66992"
        y="-164.93414"
-       id="tspan21"><tspan
+       id="tspan54"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan20">1.5    0.8    1.5
+         id="tspan53">1.5    0.8    1.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-160.75552"
-       id="tspan23"><tspan
+       id="tspan56"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan22">2.0    1.5    1.5
+         id="tspan55">2.0    1.5    1.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-156.57691"
-       id="tspan25"><tspan
+       id="tspan58"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan24">2.5    2.0    1.75
+         id="tspan57">2.5    2.0    1.75
 </tspan></tspan><tspan
        x="245.66992"
        y="-152.39829"
-       id="tspan27"><tspan
+       id="tspan60"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan26">3.0    2.5    2.1
+         id="tspan59">3.0    2.5    2.1
 </tspan></tspan><tspan
        x="245.66992"
        y="-148.21967"
-       id="tspan29"><tspan
+       id="tspan62"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan28">4.0    2.5    2.8
+         id="tspan61">4.0    2.5    2.8
 </tspan></tspan><tspan
        x="245.66992"
        y="-144.04105"
-       id="tspan31"><tspan
+       id="tspan64"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan30">5.0    3.5    3.5
+         id="tspan63">5.0    3.5    3.5
 </tspan></tspan><tspan
        x="245.66992"
        y="-139.86243"
-       id="tspan33"><tspan
+       id="tspan66"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan32">6.0    4.0    4.2
+         id="tspan65">6.0    4.0    4.2
 </tspan></tspan><tspan
        x="245.66992"
        y="-135.68381"
-       id="tspan35"><tspan
+       id="tspan68"><tspan
          style="font-family:Consolas;-inkscape-font-specification:Consolas;fill:#1a1a1a"
-         id="tspan34">8.0    5.0    5.6</tspan></tspan></text><path
+         id="tspan67">8.0    5.0    5.6</tspan></tspan></text><path
      id="path4-6"
      style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
      d="m 65.499905,73.000422 9e-5,-4.50003 h 1.5 l 8e-5,-1.49497 h -1.50017 v -0.005 h -2.99981 v 0.005 h -1.50017 l 7e-5,1.49497 h 1.5 l 1e-4,4.50003 z"
